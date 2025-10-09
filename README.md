@@ -95,9 +95,7 @@
 
 ## 🎁 **Easter Egg — Secret Message!**
 > 🔍 **Coba tebak**:  
-> *"Aku suka ngopi jam 3 pagi sambil refactor code lama... 😏"*  
-> *(Ini cuma buat yang baca sampai bawah!)*
-
+> **aku suka tidur,kalo udah jenuh sama error**
 ---
 
 ## 💬 **Let’s Connect & Collaborate!**
