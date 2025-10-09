@@ -102,9 +102,6 @@
 
 <div align="center">
   
-  📧 **Email**: [kyy.dev@example.com](mailto:kyy.dev@example.com)  
-  💼 **LinkedIn**: [linkedin.com/in/kyy-dev](https://linkedin.com/in/kyy-dev)  
-  🐦 **Twitter**: [@kyy_dev](https://twitter.com/kyy_dev)  
   🌐 **Portfolio**: [kyy.dev](https://kyy.dev) *(coming soon!)*
   
   <br/><br/>
